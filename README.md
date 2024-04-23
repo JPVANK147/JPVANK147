@@ -11,13 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JPVANK147?tab=repositories](https://github.com/JPVANK147?tab=repositories)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Coding**
 
 - 📫 How to reach me **jpvank@gmail.com**
 
-- 📄 Know about my experiences [resume link](resume link)
-
-- ⚡ Fun fact **i think im funny**
+- 📄 Know about my experiences [Resume link](https://drive.google.com/drive/u/0/folders/1mT7iuT-kG3DQ-QAF8l_WRgjDZSrU3Fd7)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
